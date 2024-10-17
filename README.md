@@ -81,7 +81,12 @@
 
 ---
 
-<!-- GitHub Stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dkpython7&show_icons=true&locale=en&layout=compact" alt="Md Imran Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dkpython7&show_icons=true&locale=en" alt="Md Imran GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dkpython7&" alt="Md Imran GitHub Streak" /></p>
+<!-- GitHub Stats - Dark Theme -->
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dkpython7&show_icons=true&locale=en&layout=compact&theme=dark)
+
+![Md Imran GitHub Stats](https://github-readme-stats.vercel.app/api?username=dkpython7&show_icons=true&locale=en&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dkpython7&theme=dark)
+
