@@ -45,12 +45,12 @@ class AIMLEngineer:
 
 ### 🎯 What I'm Up To
 
-- 🔭 **Currently Working On:** Advanced Computer Vision projects and MLOps infrastructure
-- 🌱 **Learning:** Generative AI, LLMs (GPT, BERT), and Cloud ML Services
-- 👯 **Open to Collaborate:** AI research projects, ML competitions, and innovative startups
-- 🎓 **Specializing In:** Deep Learning, Computer Vision, NLP, and Predictive Analytics
-- 💡 **Passionate About:** Ethical AI, Model Interpretability, and AI for Social Good
-- ⚡ **Fun Fact:** I can debug neural networks faster than I can debug my coffee machine ☕
+- 🔭 **Currently Working On:** Building computer vision models and learning how to manage ML workflows (MLOps basics)  
+- 🌱 **Learning:** Generative AI (like GPT & BERT) and how to use ML models on cloud platforms  
+- 👯 **Open to Collaborate:** On machine learning projects, kaggle-style competitions, and student-led startups  
+- 🎓 **Specializing In:** Deep learning, computer vision, and exploring NLP use cases  
+- 💡 **Passionate About:** Making AI useful in real-life problems and understanding how models make decisions  
+- ⚡ **Fun Fact:** I’ve spent more hours fixing code bugs than fixing my sleep schedule 😄
 
 ---
 
@@ -92,17 +92,19 @@ class AIMLEngineer:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| 🧠 **Neural Style Transfer** | AI-powered artistic image transformation | Python, TensorFlow, OpenCV | ![Live](https://img.shields.io/badge/Live-brightgreen) |
-| 🔍 **Computer Vision OCR** | Real-time text extraction from images | Python, PyTorch, Tesseract | ![Complete](https://img.shields.io/badge/Complete-blue) |
-| 📈 **Stock Price Predictor** | LSTM-based financial forecasting | Python, Keras, Streamlit | ![Live](https://img.shields.io/badge/Live-brightgreen) |
-| 🤖 **Chatbot with NLP** | Intelligent conversational AI | Python, Transformers, Flask | ![In Progress](https://img.shields.io/badge/In_Progress-yellow) |
-| 🏥 **Medical Image Analysis** | CNN for disease detection | Python, TensorFlow, FastAPI | ![Beta](https://img.shields.io/badge/Beta-orange) |
+| 🧠 **Fake News Predictor** | Detects misinformation using NLP | Python, Scikit-learn, NLTK | ![Complete](https://img.shields.io/badge/Complete-blue) |
+| 🗑️ **Garbage Classifier (GreenMindAI)** | Classifies waste into 10 categories using CNN | Python, TensorFlow, Flask | ![Live](https://img.shields.io/badge/Live-brightgreen) |
+| ✋ **Hand Gesture Detection** | MediaPipe-based gesture tracking & tool selection | Python, OpenCV, MediaPipe | ![Improving](https://img.shields.io/badge/Improving-lightgrey) |
+| 🎮 **Coin Guessing Game** | Simple CLI game for fun | Python | ![Complete](https://img.shields.io/badge/Complete-blue) |
+| 🎬 **Movie Recommendation System** | Recommends movies based on user interest | Python, Pandas, Scikit-learn | ![Complete](https://img.shields.io/badge/Complete-blue) |
+| 👁️ **OpenCV Image Project** | Image processing using OpenCV2 | Python, OpenCV | ![Complete](https://img.shields.io/badge/Complete-blue) |
+| 👷‍♂️ **Pravasi Path** *(optional)* | Platform to help daily wage workers with jobs & rentals | Python, Flask, HTML/CSS | ![Prototype](https://img.shields.io/badge/Prototype-orange) |
 
 </div>
 
@@ -132,11 +134,14 @@ class AIMLEngineer:
 </div>
 
 ### 🎓 Certifications
-- 🏅 **Google Cloud Professional ML Engineer**
-- 🏅 **AWS Certified Machine Learning - Specialty**
-- 🏅 **TensorFlow Developer Certificate**
-- 🏅 **Deep Learning Specialization - Coursera**
-- 🏅 **Microsoft Azure AI Engineer Associate**
+
+- 📜 **Python for Everybody - Coursera**  
+- 📜 **Machine Learning with Python - IBM / Coursera**  
+- 📜 **Deep Learning Fundamentals - Deeplearning.ai**  
+- 📜 **Computer Vision with TensorFlow - Coursera**  
+- 📜 **Python Data Science Toolbox - DataCamp**  
+- 📜 **Introduction to TensorFlow for AI - Coursera**  
+- 📜 **Data Analysis with Pandas and NumPy - Udemy / Kaggle**  
 
 ---
 
@@ -181,7 +186,7 @@ class AIMLEngineer:
 
 <div align="center">
   
-### 🚀 "Artificial Intelligence is the new electricity" - Andrew Ng
+###  "Artificial Intelligence is the new electricity" - Andrew Ng
 
 **⭐ Star my repositories if you find them useful!**
 
